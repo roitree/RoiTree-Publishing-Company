@@ -3,9 +3,9 @@
 
 책을 사랑하고 아끼는 **로이트리 출판사**를 방문해 주셔서 감사합니다.
 
-###- 영어 관련 전문서적
-###- 번역서적 
-###- 통번역 관련 전문서적 
+- 영어 관련 전문서적
+- 번역서적 
+- 통번역 관련 전문서적 
 
 ### **로이트리 출판사**
 - We love books
@@ -13,7 +13,7 @@
 - We RoiTree books
 
 ### New Book 
-<a href='https://ifh.cc/v-odQpkJ' target='_blank'><img src='https://ifh.cc/g/odQpkJ.png' border='0'></a>
+<a href='https://ifh.cc/v-odQpkJ' target='_blank'><img src='https://ifh.cc/g/odQpkJ.png' border='0' width="120" height="160"></a>
 
 
 ### Books in 2021 
@@ -23,9 +23,7 @@
 - 미국의 고민
 - 영상번역 비법
 
-**Bold** and _Italic_ and `Code` text
-
-![Image](<a href='https://ifh.cc/v-FKpTwm' target='_blank'><img src='https://ifh.cc/g/FKpTwm.png' border='0'></a>)
+<a href='https://ifh.cc/v-FKpTwm' target='_blank'><img src='https://ifh.cc/g/FKpTwm.png' border='0' width="100" height="100"></a>
 
 ### Support or Contact
 roitree01@gmail.com
